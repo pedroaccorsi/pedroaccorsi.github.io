@@ -2,33 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: Assistant Professor, <a href='https://cienciapolitica.uc.cl/'>Institute of Political Science</a>, Pontificia Universidad Católica de Chile
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+    <p>pedro.accorsi@uc.cl</p>
+selected_papers: true
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
+  scrollable: false
+  limit: 5
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on international conflict and civil-military relations. I study military power, battlefield performance, and the causes, consequences, and measurement of armed conflict. Within civil-military relations, I work on public opinion, the establishment (or erosion) of civilian control over the military, and defense policy and reform. I'm also interested in conceptual and measurement questions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is published in academic journals including *Comparative Political Studies*, *Security Studies*, and *Armed Forces & Society*.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I was a Postdoctoral Fellow (2023–25) and Hans J. Morgenthau Fellow (2021–22) at the [Notre Dame International Security Center](https://ndisc.nd.edu/), University of Notre Dame, and served as Managing Editor of *Security Studies* (2020–22). I received my Ph.D. in Political Science from the [University of Minnesota](https://www.umn.edu/) in 2023.
