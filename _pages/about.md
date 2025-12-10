@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: International Conflict • Civil-Military Relations • Security Studies
+subtitle:
 profile:
   align: right
   image: prof_pic.jpg
