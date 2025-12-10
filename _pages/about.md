@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href='https://cienciapolitica.uc.cl/'>Institute of Political Science</a>, Pontificia Universidad Católica de Chile
+subtitle: International Conflict • Civil-Military Relations • Security Studies
 profile:
   align: right
   image: prof_pic.jpg
@@ -20,6 +20,8 @@ latest_posts:
   scrollable: false
   limit: 3
 ---
+
+I am an Assistant Professor at the [Institute of Political Science](https://cienciapolitica.uc.cl/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/).
 
 My research focuses on international conflict and civil-military relations. I study military power, battlefield performance, and the causes, consequences, and measurement of armed conflict. Within civil-military relations, I work on public opinion, the establishment (or erosion) of civilian control over the military, and defense policy and reform. I'm also interested in conceptual and measurement questions.
 
