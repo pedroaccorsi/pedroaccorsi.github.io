@@ -8,7 +8,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>pedro.accorsi@uc.cl</p>
 selected_papers: true
 social: true
 announcements:
