@@ -8,8 +8,18 @@ nav_order: 4
 
 **Pontificia Universidad Católica de Chile**
 
-Causal Inference (Graduate), Fall 2025
+*Graduate seminars*
+
+- Causal Inference
+- International Security
+
+*Undergraduate seminars*
+
+- Threats to Human Security
+- Introduction to Political Science
 
 **University of Minnesota**
 
-International Relations (Undergraduate), Summer 2023
+*Undergraduate*
+
+- International Relations
