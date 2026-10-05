@@ -12,6 +12,7 @@ nav_order: 4
 
 - Causal Inference
 - International Security
+- International Norms and Institutions
 
 *Undergraduate seminars*
 
