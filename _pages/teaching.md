@@ -8,19 +8,19 @@ nav_order: 4
 
 **Pontificia Universidad Católica de Chile**
 
-*Graduate seminars*
+_Graduate seminars_
 
 - Causal Inference
 - International Security
 - International Norms and Institutions
 
-*Undergraduate seminars*
+_Undergraduate seminars_
 
 - Threats to Human Security
 - Introduction to Political Science
 
 **University of Minnesota**
 
-*Undergraduate*
+_Undergraduate_
 
 - International Relations
