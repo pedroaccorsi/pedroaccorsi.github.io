@@ -210,6 +210,8 @@
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% endif %}
+      {% elsif entry.html_placeholder == 'true' %}
+        <a class="btn btn-sm z-depth-0" role="button" aria-disabled="true">HTML</a>
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
